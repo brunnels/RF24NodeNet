@@ -1,0 +1,16 @@
+RF24NodeNet KEYWORD1
+
+addDigitalPinReadHandler KEYWORD2
+addDigitalPinWriteHandler KEYWORD2
+addDigitalPinRcvHandler KEYWORD2
+
+addPwmPinReadHandler KEYWORD2
+addPwmPinWriteHandler KEYWORD2
+addPwmPinRcvHandler KEYWORD2
+
+addAnalogPinReadHandler KEYWORD2
+addAnalogPinWriteHandler KEYWORD2
+addAnalogPinRcvHandler KEYWORD2
+
+begin KEYWORD2
+update KEYWORD2
